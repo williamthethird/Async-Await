@@ -1,7 +1,7 @@
 // #**************************
 // #Part 1: Number Facts
 // #**************************
-// extra comment
+
 
 // let favNumber = 7;
 // let baseURL = "http://numbersapi.com";
