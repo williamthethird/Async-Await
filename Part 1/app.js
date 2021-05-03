@@ -1,7 +1,7 @@
 // #**************************
 // #Part 1: Number Facts
 // #**************************
-// add comment 2
+
 
 
 // let favNumber = 7;
